@@ -35,7 +35,8 @@ Passionate about cloud-native technologies, distributed systems, and production-
 `PostgreSQL` `MySQL` `MongoDB` `Redis` `Cassandra`
 
 ### 💻 Languages & Tools
-`Go` `Python` `Bash` `Git`
+`Go` `Python(automation tasks)` `Bash` `Git` `Linux` `VS Code` `Postman` `yq` `jq`
+
 
 ---
 
@@ -43,7 +44,8 @@ Passionate about cloud-native technologies, distributed systems, and production-
 
 - 🔹 Platform Engineering  
 - 🔹 Infrastructure as Code (IaC)  
-- 🔹 Site Reliability Engineering (SRE)  
+- 🔹 Site Reliability Engineering (SRE)
+- 🔹 Artificial Intelligence Operations (AIOps) 
 - 🔹 Cloud Architecture & Scaling  
 - 🔹 Observability & Monitoring  
 
@@ -85,7 +87,8 @@ Passionate about cloud-native technologies, distributed systems, and production-
 ## 🤝 Let's Connect
 
 - 💼 Open to DevOps / SRE / Platform roles (Remote & Global)  
-- 📫 Reach me via GitHub or LinkedIn  
+- 📫 Reach me via [GitHub](https://github.com/malikhq) or [LinkedIn](http://linkedin.com/in/abdulmalik-ibikunle-8a6894177)
+  
 
 ---
 
