@@ -89,7 +89,6 @@ Passionate about cloud-native technologies, distributed systems, and production-
 - 💼 Open to DevOps / SRE / Platform roles (Remote & Global)  
 - 📫 Reach me via [GitHub](https://github.com/malikhq) or [LinkedIn](http://linkedin.com/in/abdulmalik-ibikunle-8a6894177)
   
-
 ---
 
 > “Build systems that don’t just work — but scale, heal, and evolve.”
