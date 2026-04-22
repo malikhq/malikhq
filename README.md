@@ -23,7 +23,7 @@ Passionate about cloud-native technologies, distributed systems, and production-
 `AWS` `GCP` `Azure` `DigitalOcean` `Cloudflare`
 
 ### ⚙️ DevOps & CI/CD
-`GitHub Actions` `GitLab CI` `Jenkins` `Terraform` `Packer`
+`GitHub Actions` `GitLab CI` `Jenkins` `Terraform` `Packer` `Bitbuket`
 
 ### 🐳 Containers & Orchestration
 `Docker` `Kubernetes`
