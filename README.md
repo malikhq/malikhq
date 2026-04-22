@@ -20,7 +20,7 @@ Passionate about cloud-native technologies, distributed systems, and production-
 ## 🛠️ Core Stack
 
 ### 🚀 Cloud & Infrastructure
-`AWS` `GCP` `Azure` `DigitalOcean` `Cloudflare`
+`AWS` `GCP` `Azure` `DigitalOcean` 
 
 ### ⚙️ DevOps & CI/CD
 `GitHub Actions` `GitLab CI` `Jenkins` `Terraform` `Packer` `Bitbuket`
