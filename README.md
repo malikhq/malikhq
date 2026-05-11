@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulmalik
 
-### 🚀 DevOps Engineer | SRE | Platform Engineer
+### DevOps Engineer | SRE | Platform Engineer
 
 I design and build scalable, reliable infrastructure systems with a focus on automation, performance, and observability.  
 Passionate about cloud-native technologies, distributed systems, and production-grade deployments.
@@ -42,12 +42,12 @@ Passionate about cloud-native technologies, distributed systems, and production-
 
 ## 📌 Featured Focus Areas
 
-- 🔹 Platform Engineering  
-- 🔹 Infrastructure as Code (IaC)  
-- 🔹 Site Reliability Engineering (SRE)
-- 🔹 Artificial Intelligence Operations (AIOps) 
-- 🔹 Cloud Architecture & Scaling  
-- 🔹 Observability & Monitoring  
+- Platform Engineering  
+- Infrastructure as Code (IaC)  
+- Site Reliability Engineering (SRE)
+- Artificial Intelligence Operations (AIOps) 
+- Cloud Architecture & Scaling  
+- Observability & Monitoring  
 
 ---
 
