@@ -72,7 +72,7 @@ Lately, I’ve also been exploring AIOps and intelligent automation — integrat
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=malikhq&theme=tokyonight&hide_border=true"
     alt="GitHub Streak Stats"
