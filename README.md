@@ -73,8 +73,10 @@ Lately, I’ve also been exploring AIOps and intelligent automation — integrat
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikhq&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malikhq&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=malikhq&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
+  />
 </p>
 
 ---
