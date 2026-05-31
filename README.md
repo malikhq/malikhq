@@ -6,7 +6,7 @@ I build and operate scalable cloud-native infrastructure with a strong focus on 
 
 Over the last few years, I’ve worked across AWS, GCP, and Azure designing production-grade environments, improving CI/CD workflows, hardening Kubernetes platforms, and building systems that are easier to deploy, monitor, and maintain.
 
-Lately, I’ve also been exploring AIOps and intelligent automation — integrating LLM-based tooling into DevOps workflows for faster troubleshooting, incident analysis, and operational efficiency.
+Lately, I’ve also been exploring AIOps and intelligent automation integrating LLM-based tooling into DevOps workflows for faster troubleshooting, incident analysis, and operational efficiency.
 
 ---
 
