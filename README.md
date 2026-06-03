@@ -9,7 +9,7 @@ Over the last few years, I’ve worked across AWS, GCP, and Azure designing prod
 Lately, I’ve also been exploring AIOps and intelligent automation integrating LLM-based tooling into DevOps workflows for faster troubleshooting, incident analysis, and operational efficiency.
 
 ---
-(
+
 ## ⚡ What I Work With
 
 ### Cloud & Infrastructure
