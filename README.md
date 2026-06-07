@@ -18,7 +18,7 @@ Lately, I’ve also been exploring AIOps and intelligent automation integrating 
 
 ### DevOps & CI/CD
 
-`Terraform` `Ansible` `GitHub Actions` `GitLab CI` `Jenkins` `ArgoCD` `Bitbucket Pipelines`
+`Terraform` `Ansible` `GitHub Actions` `GitLab CI` `ArgoCD` `Bitbucket Pipelines`
 
 ### Containers & Platform Engineering
 
