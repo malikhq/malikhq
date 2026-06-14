@@ -1,98 +1,99 @@
-# 👋 Hi, I'm Abdulmalik
+# Abdulmalik Ibikunle
 
-### DevOps Engineer • Platform Engineering • Cloud Infrastructure
+## About Me
 
-I build and operate scalable cloud-native infrastructure with a strong focus on Kubernetes, automation, observability, and reliability engineering.
+DevOps, Platform, and Site Reliability Engineer with experience building scalable, secure, and reliable cloud infrastructure.
 
-Over the last few years, I’ve worked across AWS, GCP, and Azure designing production-grade environments, improving CI/CD workflows, hardening Kubernetes platforms, and building systems that are easier to deploy, monitor, and maintain.
+I specialize in Kubernetes, cloud-native technologies, Infrastructure as Code, CI/CD automation, observability, and platform engineering. My work focuses on designing and operating production systems that enable teams to deploy faster, troubleshoot efficiently, and maintain high reliability.
 
-Lately, I’ve also been exploring AIOps and intelligent automation integrating LLM-based tooling into DevOps workflows for faster troubleshooting, incident analysis, and operational efficiency.
+I am particularly interested in Kubernetes platform engineering, cloud architecture, observability, automation, and AI-assisted operations.
 
----
+## Contact
 
-## ⚡ What I Work With
+* GitHub: [@malikhq](https://github.com/malikhq)
+* LinkedIn: [Abdulmalik Ibikunle](https://linkedin.com/in/abdulmalik-ibikunle-8a6894177)
 
-### Cloud & Infrastructure
+## Skills & Technologies
 
-`AWS` `GCP` `Azure` `DigitalOcean`
+### Cloud
 
-### DevOps & CI/CD
+* AWS
+* Google Cloud Platform (GCP)
+* Microsoft Azure
+* DigitalOcean
 
-`Terraform` `Ansible` `GitHub Actions` `GitLab CI` `ArgoCD` `Bitbucket Pipelines`
+### Platform Engineering
 
-### Containers & Platform Engineering
+* Kubernetes
+* Docker
+* Helm
+* ArgoCD
 
-`Docker` `Kubernetes` `Helm`
+### Infrastructure as Code & Automation
 
-### Observability & Reliability
+* Terraform
+* Ansible
 
-`Prometheus` `Grafana` `Loki` `Tempo` `OpenTelemetry` `Datadog` `ELK Stack`
+### CI/CD
 
-### Security & Governance
+* GitHub Actions
+* GitLab CI/CD
+* Bitbucket Pipelines
 
-`Kyverno` `OPA Gatekeeper` `HashiCorp Vault` `Trivy` `RBAC` `Network Policies`
+### Observability
+
+* Prometheus
+* Grafana
+* Loki
+* Tempo
+* OpenTelemetry
+* Datadog
+* ELK Stack
+
+### Security
+
+* HashiCorp Vault
+* Kyverno
+* OPA Gatekeeper
+* Trivy
+* RBAC
+* Network Policies
 
 ### Languages & Tooling
 
-`Go` `Python` `Bash` `Linux` `Git` `jq` `yq`
+* Go
+* Python
+* Bash
+* Linux
+* Git
+* jq
+* yq
 
----
-
-## 🧠 Areas I Enjoy Working In
+## Areas of Interest
 
 * Kubernetes Platform Engineering
-* Infrastructure as Code (IaC)
 * Site Reliability Engineering (SRE)
+* Cloud Architecture
+* Infrastructure as Code (IaC)
 * Observability & Monitoring
-* Cloud Architecture & Scaling
-* DevSecOps & Runtime Security
-* AI-assisted Operations (AIOps)
+* DevSecOps
+* AIOps
 
----
+## Current Focus
 
-## 🚀 What I’ve Been Building
-
-* Production-grade Kubernetes platforms with GitOps workflows
-* Secure multi-environment cloud infrastructure using Terraform and Ansible
-* Observability stacks with Prometheus, Grafana, Loki, Tempo, and OpenTelemetry
-* CI/CD systems with automated deployments and security checks
-* AI-assisted troubleshooting workflows for Kubernetes and cloud infrastructure
-* Internal tooling to improve deployment reliability and incident response
-
----
-
-## 📌 Current Focus
-
-* Deepening Kubernetes and platform engineering expertise
-* Building highly observable and resilient systems
+* Building resilient Kubernetes platforms
+* Improving observability and reliability practices
+* Advancing cloud-native platform engineering
 * Exploring AI-driven automation for infrastructure operations
-* Contributing to scalable cloud-native architectures
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malikhq\&show_icons=true)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malikhq\&layout=compact)
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=malikhq&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
-</p>
-
----
-
-## 📈 Top Languages
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=malikhq&layout=compact&theme=tokyonight" />
-
----
-
-## 🤝 Connect With Me
-
-* GitHub: [@malikhq](https://github.com/malikhq?utm_source=chatgpt.com)
-* LinkedIn: [Abdulmalik Ibikunle](http://linkedin.com/in/abdulmalik-ibikunle-8a6894177?utm_source=chatgpt.com)
-
----
-
-> *“Build systems that are reliable, observable, secure — and simple enough to scale.”*
-> 
+> Building reliable, observable, and scalable systems.
