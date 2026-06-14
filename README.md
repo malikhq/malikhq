@@ -16,59 +16,15 @@ I am particularly interested in Kubernetes platform engineering, cloud architect
 
 ## Skills & Technologies
 
-### Cloud
-
-* AWS
-* Google Cloud Platform (GCP)
-* Microsoft Azure
-* DigitalOcean
-
-### Platform Engineering
-
-* Kubernetes
-* Docker
-* Helm
-* ArgoCD
-
-### Infrastructure as Code & Automation
-
-* Terraform
-* Ansible
-
-### CI/CD
-
-* GitHub Actions
-* GitLab CI/CD
-* Bitbucket Pipelines
-
-### Observability
-
-* Prometheus
-* Grafana
-* Loki
-* Tempo
-* OpenTelemetry
-* Datadog
-* ELK Stack
-
-### Security
-
-* HashiCorp Vault
-* Kyverno
-* OPA Gatekeeper
-* Trivy
-* RBAC
-* Network Policies
-
-### Languages & Tooling
-
-* Go
-* Python
-* Bash
-* Linux
-* Git
-* jq
-* yq
+| Category                            | Tools / Technologies                                                    |
+| ----------------------------------- | ----------------------------------------------------------------------- |
+| Cloud                               | AWS, Google Cloud Platform (GCP), Microsoft Azure, DigitalOcean         |
+| Platform Engineering                | Kubernetes, Docker, Helm, ArgoCD                                        |
+| Infrastructure as Code & Automation | Terraform, Ansible                                                      |
+| CI/CD                               | GitHub Actions, GitLab CI/CD, Bitbucket Pipelines                       |
+| Observability                       | Prometheus, Grafana, Loki, Tempo, OpenTelemetry, Datadog, ELK Stack     |
+| Security                            | HashiCorp Vault, Kyverno, OPA Gatekeeper, Trivy, RBAC, Network Policies |
+| Languages & Tooling                 | Go, Python, Bash, Linux, Git, jq, yq                                    |
 
 ## Areas of Interest
 
