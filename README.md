@@ -1,4 +1,6 @@
-# Abdulmalik Ibikunle
+# Abdulmalik, IBIKUNLE
+
+![](https://komarev.com/ghpvc/?username=malikhq&color=blue)
 
 ## About Me
 
@@ -10,8 +12,9 @@ I am particularly interested in Kubernetes platform engineering, cloud architect
 
 ## Contact
 
-* GitHub: [@malikhq](https://github.com/malikhq)
-* LinkedIn: [Abdulmalik Ibikunle](https://linkedin.com/in/abdulmalik-ibikunle-8a6894177)
+* Email: [abdulmalik.ibikunle@@gmail.com](mailto:abdulmalik.ibikunle@@gmail.com) 📧
+* LinkedIn: [Abdulmalik Ibikunle](https://linkedin.com/in/abdulmalik-ibikunle-8a6894177) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)
+* Website: [malikhq.netlify.app](https://malikhq.netlify.app/) 🌐
 
 ## Skills & Technologies
 
