@@ -4,9 +4,7 @@
 
 ## About Me
 
-DevOps, Platform, and Site Reliability Engineer with experience building scalable, secure, and reliable cloud infrastructure.
-I specialize in Kubernetes, cloud-native technologies, Infrastructure as Code, CI/CD automation, observability, and platform engineering. My work focuses on designing and operating production systems that enable teams to deploy faster, troubleshoot efficiently, and maintain high reliability.
-I am particularly interested in Kubernetes platform engineering, cloud architecture, observability, automation, and AI-assisted operations.
+DevOps, Platform, and Site Reliability Engineer with experience building scalable, secure, and reliable cloud infrastructure. I specialize in Kubernetes, cloud-native technologies, Infrastructure as Code, CI/CD automation, observability, and platform engineering. My work focuses on designing and operating production systems that enable teams to deploy faster, troubleshoot efficiently, and maintain high reliability. I am particularly interested in Kubernetes platform engineering, cloud architecture, observability, automation, and AI-assisted operations.
 
 ## Contact
 
